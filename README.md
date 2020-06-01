@@ -1,5 +1,5 @@
 # Housing-Price-Predictions
-Predicting the prices of homes using regression techniques. This dataset is from Kaggle. Can be found [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
+Predicting the prices of homes using regression techniques. This dataset is from Kaggle. Can be found [here](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview).
 
 #### Files
 1. `data_decription.txt`: Text file describing dataset 
